@@ -1,0 +1,101 @@
+Order ID,Item Name,Category,Qty in Stock,Unit,Unit Cost,Total Value,Reorder Level,Supplier,Last Restock Date,Status
+ORD-0001,Ariel Powder 1kg,Detergent,168,pcs,₱45.63,₱7665.84,13,Lazada B2B,2012-05-03,In Stock
+ORD-0002,Tide Liquid 1L,Detergent,62,pcs,₱632.59,₱39220.58,14,CleanMart Wholesale,2024-06-18,In Stock
+ORD-0003,Surf Powder 500g,Detergent,156,pcs,₱51.22,₱7990.32,23,Lazada B2B,2004-03-15,In Stock
+ORD-0004,Downy Fabric Conditioner 1L,Detergent,64,pcs,₱521.67,₱33386.88,26,Lazada B2B,2025-03-05,In Stock
+ORD-0005,Breeze Powder 2kg,Detergent,188,pcs,₱603.59,₱113474.92,30,Lazada B2B,2018-10-26,In Stock
+ORD-0006,Bold 3in1 Pods 30s,Detergent,119,pcs,₱254.51,₱30286.69,28,Manila Detergent Co.,2000-04-16,In Stock
+ORD-0007,Gain Liquid 1.5L,Detergent,183,pcs,₱305.71,₱55944.93,23,Lazada B2B,2006-12-22,In Stock
+ORD-0008,Persil Capsules 20s,Detergent,200,pcs,₱109.32,₱21864.0,20,CleanMart Wholesale,2017-01-15,In Stock
+ORD-0009,Ariel Liquid 2L,Detergent,96,pcs,₱523.07,₱50214.72,21,SM Hypermarket B2B,2001-12-12,In Stock
+ORD-0010,Tide Pods 42s,Detergent,142,pcs,₱827.82,₱117550.44,13,CleanMart Wholesale,2016-12-23,In Stock
+ORD-0011,Surf Color Care 1kg,Detergent,146,pcs,₱709.26,₱103551.96,19,Lazada B2B,2016-03-22,In Stock
+ORD-0012,Fab Powder 1kg,Detergent,185,pcs,₱62.81,₱11619.85,12,FastClean Depot,2010-03-22,In Stock
+ORD-0013,Attack Liquid 800ml,Detergent,25,pcs,₱739.85,₱18496.25,17,FastClean Depot,2017-01-18,In Stock
+ORD-0014,Rinso Powder 2kg,Detergent,121,pcs,₱713.14,₱86289.94,30,UniSupply Inc.,2007-04-18,In Stock
+ORD-0015,Ace Powder 1.5kg,Detergent,95,pcs,₱577.89,₱54899.55,16,Manila Detergent Co.,2003-03-15,In Stock
+ORD-0016,Bold Liquid 1L,Detergent,141,pcs,₱159.81,₱22533.21,17,FastClean Depot,2017-01-07,In Stock
+ORD-0017,Dynamo Powder 1kg,Detergent,168,pcs,₱206.18,₱34638.24,27,LG Supplies PH,2014-07-19,In Stock
+ORD-0018,Cheer Liquid 1L,Detergent,63,pcs,₱689.16,₱43417.08,11,FastClean Depot,2017-12-29,In Stock
+ORD-0019,Tide HE 1.5L,Detergent,21,pcs,₱778.34,₱16345.14,16,UniSupply Inc.,2025-06-10,In Stock
+ORD-0020,Purex Powder 1kg,Detergent,59,pcs,₱436.87,₱25775.33,30,Manila Detergent Co.,2020-07-31,In Stock
+ORD-0021,Zonrox Bleach 1L,Bleach & Disinfectant,72,bottles,₱228.47,₱16449.84,14,FastClean Depot,2025-03-07,In Stock
+ORD-0022,Clorox Regular 750ml,Bleach & Disinfectant,196,bottles,₱378.46,₱74178.16,28,AceHardware Commercial,2026-03-05,In Stock
+ORD-0023,Lysol Disinfectant 500ml,Bleach & Disinfectant,97,bottles,₱847.79,₱82235.63,17,SM Hypermarket B2B,2006-03-16,In Stock
+ORD-0024,Mr. Muscle Multi 500ml,Bleach & Disinfectant,28,bottles,₱735.41,₱20591.48,11,Manila Detergent Co.,2006-11-09,In Stock
+ORD-0025,Domex Floor 750ml,Bleach & Disinfectant,179,bottles,₱517.04,₱92550.16,23,AceHardware Commercial,2017-04-05,In Stock
+ORD-0026,Clorox Splash 1L,Bleach & Disinfectant,157,bottles,₱461.52,₱72458.64,24,LG Supplies PH,2024-10-25,In Stock
+ORD-0027,Lysol Concentrate 500ml,Bleach & Disinfectant,179,bottles,₱587.41,₱105146.39,13,FastClean Depot,2024-02-01,In Stock
+ORD-0028,Pine-Sol 1L,Bleach & Disinfectant,169,bottles,₱117.03,₱19778.07,20,Manila Detergent Co.,2019-07-03,In Stock
+ORD-0029,Dettol Multi 500ml,Bleach & Disinfectant,121,bottles,₱811.9,₱98239.9,10,Manila Detergent Co.,2011-10-25,In Stock
+ORD-0030,Biolink Disinfect 1L,Bleach & Disinfectant,134,bottles,₱743.18,₱99586.12,13,Lazada B2B,2013-05-21,In Stock
+ORD-0031,Vanish Pink Oxi 450g,Stain Remover,44,pcs,₱654.07,₱28779.08,21,LG Supplies PH,2024-03-12,In Stock
+ORD-0032,Shout Spray 500ml,Stain Remover,158,pcs,₱428.1,₱67639.8,20,UniSupply Inc.,2005-01-06,In Stock
+ORD-0033,Dr. Beckmann Stain 250ml,Stain Remover,83,pcs,₱72.79,₱6041.57,17,CleanMart Wholesale,2025-06-13,In Stock
+ORD-0034,OxiClean Spray 500ml,Stain Remover,26,pcs,₱698.22,₱18153.72,25,Manila Detergent Co.,2023-11-23,In Stock
+ORD-0035,Carbona Stain Devils 50ml,Stain Remover,37,pcs,₱806.15,₱29827.55,25,FastClean Depot,2007-05-29,In Stock
+ORD-0036,Fels-Naptha Bar 200g,Stain Remover,140,pcs,₱374.09,₱52372.6,29,Lazada B2B,2009-07-02,In Stock
+ORD-0037,Mesh Laundry Bag Small,Laundry Bag & Net,187,pcs,₱354.17,₱66229.79,19,SM Hypermarket B2B,2016-10-01,In Stock
+ORD-0038,Mesh Laundry Bag Large,Laundry Bag & Net,137,pcs,₱124.83,₱17101.71,24,CleanMart Wholesale,2010-01-29,In Stock
+ORD-0039,Laundry Hamper Bag,Laundry Bag & Net,91,pcs,₱510.35,₱46441.85,10,Lazada B2B,2010-04-28,In Stock
+ORD-0040,Delicate Wash Bag,Laundry Bag & Net,6,pcs,₱608.97,₱3653.82,12,Lazada B2B,2002-08-22,Low Stock
+ORD-0041,Washing Net Bag XL,Laundry Bag & Net,22,pcs,₱734.2,₱16152.4,11,Lazada B2B,2003-03-06,In Stock
+ORD-0042,Zipper Laundry Bag Medium,Laundry Bag & Net,76,pcs,₱201.75,₱15333.0,25,SM Hypermarket B2B,2005-12-07,In Stock
+ORD-0043,Bounce Outdoor Fresh 40s,Dryer Sheets,67,boxes,₱691.19,₱46309.73,25,CleanMart Wholesale,2008-07-16,In Stock
+ORD-0044,Downy Dryer Sheets 70s,Dryer Sheets,29,boxes,₱317.3,₱9201.7,23,SM Hypermarket B2B,2018-06-10,In Stock
+ORD-0045,Snuggle Dryer Sheets 40s,Dryer Sheets,191,boxes,₱580.53,₱110881.23,11,LG Supplies PH,2004-05-31,In Stock
+ORD-0046,Gain Dryer Sheets 50s,Dryer Sheets,108,boxes,₱685.49,₱74032.92,20,Lazada B2B,2004-11-25,In Stock
+ORD-0047,Bounce Free & Gentle 40s,Dryer Sheets,54,boxes,₱467.44,₱25241.76,16,AceHardware Commercial,2006-04-15,In Stock
+ORD-0048,Downy Morning Fresh 800ml,Fabric Softener,51,bottles,₱406.67,₱20740.17,18,SM Hypermarket B2B,2003-05-20,In Stock
+ORD-0049,Surf Fabcon 800ml,Fabric Softener,145,bottles,₱66.74,₱9677.3,13,LG Supplies PH,2024-03-31,In Stock
+ORD-0050,Comfort Blue 800ml,Fabric Softener,28,bottles,₱162.21,₱4541.88,17,SM Hypermarket B2B,2021-10-13,In Stock
+ORD-0051,Softlan Ultra 750ml,Fabric Softener,59,bottles,₱769.52,₱45401.68,22,AceHardware Commercial,2007-05-21,In Stock
+ORD-0052,Snuggle Blue Sparkle 1L,Fabric Softener,5,bottles,₱243.79,₱1218.95,22,FastClean Depot,2020-05-29,Low Stock
+ORD-0053,Gain Original 800ml,Fabric Softener,113,bottles,₱571.04,₱64527.52,27,Manila Detergent Co.,2021-10-30,In Stock
+ORD-0054,Suavitel Lavender 800ml,Fabric Softener,53,bottles,₱204.6,₱10843.8,19,LG Supplies PH,2002-08-16,In Stock
+ORD-0055,Lenor Spring 800ml,Fabric Softener,196,bottles,₱72.16,₱14143.36,20,SM Hypermarket B2B,2026-03-16,In Stock
+ORD-0056,Downy Sunrise Fresh 1L,Fabric Softener,133,bottles,₱154.88,₱20599.04,26,CleanMart Wholesale,2022-10-12,In Stock
+ORD-0057,Comfort Concentrate 500ml,Fabric Softener,52,bottles,₱515.9,₱26826.8,12,AceHardware Commercial,2010-07-20,In Stock
+ORD-0058,Washing Machine Filter,Laundry Equipment,35,pcs,₱228.13,₱7984.55,28,CleanMart Wholesale,2001-10-13,In Stock
+ORD-0059,Drum Cleaning Tablet 6s,Laundry Equipment,112,pcs,₱491.31,₱55026.72,28,FastClean Depot,2014-03-11,In Stock
+ORD-0060,Anti-Vibration Pad,Laundry Equipment,57,pcs,₱221.92,₱12649.44,20,Manila Detergent Co.,2017-10-02,In Stock
+ORD-0061,Washing Machine Cleaner,Laundry Equipment,176,pcs,₱272.5,₱47960.0,30,CleanMart Wholesale,2014-03-08,In Stock
+ORD-0062,Lint Trap Replacement,Laundry Equipment,7,pcs,₱537.46,₱3762.22,24,CleanMart Wholesale,2025-04-03,Low Stock
+ORD-0063,Washing Machine Hose 1.5m,Laundry Equipment,23,pcs,₱200.85,₱4619.55,27,Manila Detergent Co.,2011-11-24,Low Stock
+ORD-0064,Spin Dryer Basket,Laundry Equipment,94,pcs,₱750.4,₱70537.6,12,FastClean Depot,2016-07-29,In Stock
+ORD-0065,Dryer Vent Brush,Laundry Equipment,45,pcs,₱712.84,₱32077.8,24,LG Supplies PH,2013-07-27,In Stock
+ORD-0066,Plastic Bag 10x14 (100s),Packaging Supplies,175,packs,₱271.99,₱47598.25,27,Manila Detergent Co.,2004-08-24,In Stock
+ORD-0067,Kraft Paper Bag Medium,Packaging Supplies,72,packs,₱759.01,₱54648.72,13,Manila Detergent Co.,2024-10-25,In Stock
+ORD-0068,Poly Mailer 12x16 (50s),Packaging Supplies,74,packs,₱523.98,₱38774.52,19,Lazada B2B,2015-05-19,In Stock
+ORD-0069,Tissue Paper Roll,Packaging Supplies,180,packs,₱728.65,₱131157.0,30,SM Hypermarket B2B,2022-09-02,In Stock
+ORD-0070,Garment Tag (100s),Packaging Supplies,69,packs,₱101.15,₱6979.35,11,FastClean Depot,2018-12-31,In Stock
+ORD-0071,Hanger Plastic (50s),Packaging Supplies,16,packs,₱300.18,₱4802.88,10,FastClean Depot,2005-11-13,In Stock
+ORD-0072,Rubber Band (100s),Packaging Supplies,46,packs,₱480.14,₱22086.44,24,LG Supplies PH,2019-03-09,In Stock
+ORD-0073,Clear Tape Roll 48mm,Packaging Supplies,33,packs,₱804.67,₱26554.11,12,LG Supplies PH,2006-09-08,In Stock
+ORD-0074,Bubble Wrap 50m Roll,Packaging Supplies,99,packs,₱480.83,₱47602.17,28,Manila Detergent Co.,2019-04-12,In Stock
+ORD-0075,Strapping Band 100m,Packaging Supplies,15,packs,₱325.84,₱4887.6,19,UniSupply Inc.,2001-10-15,Low Stock
+ORD-0076,Poly Bag 12x18 (100s),Packaging Supplies,58,packs,₱575.22,₱33362.76,17,AceHardware Commercial,2015-11-12,In Stock
+ORD-0077,Label Sticker Roll (500s),Packaging Supplies,163,packs,₱788.76,₱128567.88,14,Manila Detergent Co.,2010-08-14,In Stock
+ORD-0078,Cardboard Box Medium,Packaging Supplies,50,packs,₱45.45,₱2272.5,23,AceHardware Commercial,2014-11-25,In Stock
+ORD-0079,Shrink Wrap Roll 30cm,Packaging Supplies,176,packs,₱245.11,₱43139.36,17,AceHardware Commercial,2004-11-06,In Stock
+ORD-0080,Measuring Cup 500ml,Miscellaneous,14,pcs,₱208.51,₱2919.14,25,UniSupply Inc.,2020-08-24,Low Stock
+ORD-0081,Laundry Marker Pen,Miscellaneous,83,pcs,₱208.91,₱17339.53,17,AceHardware Commercial,2008-08-30,In Stock
+ORD-0082,Clip Hooks (20s),Miscellaneous,89,pcs,₱738.09,₱65690.01,18,UniSupply Inc.,2012-07-09,In Stock
+ORD-0083,Iron Board Cover,Miscellaneous,169,pcs,₱354.73,₱59949.37,26,UniSupply Inc.,2024-01-20,In Stock
+ORD-0084,Lint Roller Refill,Miscellaneous,12,pcs,₱748.56,₱8982.72,13,Manila Detergent Co.,2011-09-19,Low Stock
+ORD-0085,Clothespin Plastic (30s),Miscellaneous,153,pcs,₱56.56,₱8653.68,18,UniSupply Inc.,2019-06-29,In Stock
+ORD-0086,Drying Rack Hook,Miscellaneous,191,pcs,₱385.02,₱73538.82,20,CleanMart Wholesale,2022-12-10,In Stock
+ORD-0087,Laundry Scent Booster 300g,Miscellaneous,103,pcs,₱181.81,₱18726.43,28,AceHardware Commercial,2001-12-28,In Stock
+ORD-0088,Spray Bottle 500ml,Miscellaneous,5,pcs,₱788.6,₱3943.0,26,Lazada B2B,2024-02-25,Low Stock
+ORD-0089,Apron Waterproof,Miscellaneous,98,pcs,₱82.73,₱8107.54,23,UniSupply Inc.,2014-10-23,In Stock
+ORD-0090,Gloves Rubber Medium,Miscellaneous,174,pcs,₱618.8,₱107671.2,13,FastClean Depot,2013-06-21,In Stock
+ORD-0091,Basket Plastic Large,Miscellaneous,175,pcs,₱294.1,₱51467.5,23,Manila Detergent Co.,2013-04-06,In Stock
+ORD-0092,Wash Basin 10L,Miscellaneous,54,pcs,₱573.57,₱30972.78,23,Manila Detergent Co.,2017-01-02,In Stock
+ORD-0093,Scrub Brush Laundry,Miscellaneous,162,pcs,₱273.28,₱44271.36,28,LG Supplies PH,2024-07-30,In Stock
+ORD-0094,Clothesline 10m Rope,Miscellaneous,82,pcs,₱198.4,₱16268.8,19,UniSupply Inc.,2026-01-06,In Stock
+ORD-0095,Drying Rack Foldable,Miscellaneous,124,pcs,₱389.78,₱48332.72,24,SM Hypermarket B2B,2009-08-02,In Stock
+ORD-0096,Steam Iron 1200W,Miscellaneous,193,pcs,₱568.55,₱109730.15,15,UniSupply Inc.,2012-09-23,In Stock
+ORD-0097,Ironing Spray Starch 500ml,Miscellaneous,28,pcs,₱580.06,₱16241.68,17,Lazada B2B,2010-01-28,In Stock
+ORD-0098,Laundry Receipt Booklet,Miscellaneous,42,pcs,₱63.13,₱2651.46,10,CleanMart Wholesale,2021-04-24,In Stock
+ORD-0099,Price Tag Gun + Refill,Miscellaneous,121,pcs,₱756.06,₱91483.26,23,Lazada B2B,2025-10-27,In Stock
+ORD-0100,Fabric Softener Sheets 60s,Miscellaneous,188,pcs,₱432.86,₱81377.68,22,Manila Detergent Co.,2010-12-11,In Stock
